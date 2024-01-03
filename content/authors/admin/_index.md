@@ -137,11 +137,11 @@ highlight_name: true
 
 I am Dr. Arun Prakash. Welcome to my homepage.
 
-<bold>
+
 ```bash
 arunpksh:$~> aboutme
 ```
-</bold>
+
 
 Precisely speaking, I am a scientist working in the broad field of *Computational Materials Science*. Currently, I am employed as a *Senior Scientist* in the ***M**icro-Mechanics & **M**ultiscale **M**aterials **M**odeling (**M<sup>5</sup>**) Group*, Institute of Mechanics and Fluid Dynamics, TU Bergakademie Freiberg. I work primarily in the field of atomistic modeling, finite element simulations and multiscale modeling techniques, with particular focus on development of machine learning and data analytics frameworks for gaining knowledge from simulation methods.
 
