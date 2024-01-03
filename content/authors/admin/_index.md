@@ -27,7 +27,7 @@ organizations:
     url: https://tu-freiberg.de/fakult4/imfd/mikromechanische-materialmodellierung
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ....
 
 # Interests to show in About widget
 interests:
@@ -38,15 +38,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Engineering (Dr.-Ing.)
+      institution: Karlsruhe Institute of Technology (KIT), Germany
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. in Computational Mechanics of Materials and Structures (COMMAS)
+      institution: University of Stuttgart, Germany
+      year: 2005
+    - course: B.E. in Mechanical Engineering
+      institution: B.M.S. College of Engineering, Bangalore University, India
+      year: 2002
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
