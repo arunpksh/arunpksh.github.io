@@ -114,6 +114,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/arunpksh
+  - icon: gitlab
+    icon_pack: fab
+    link: https://gitlab.com/arun.prakash.mimm
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
