@@ -102,6 +102,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=e5B2kj0AAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Arun-Prakash-20
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/arunpksh
@@ -119,7 +122,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/ResumePrakash2023.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
