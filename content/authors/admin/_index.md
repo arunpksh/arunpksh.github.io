@@ -23,7 +23,7 @@ role: Senior Scientist
 organizations:
   - name: TU Bergakademie Freiberg
     url: https://tu-freiberg.de/
-  - name: Micro-Mechanics & Multiscale Materials Modeling (M<sup>5</sup>)
+  - name: Micro-Mechanics & Multiscale Materials Modeling (M^5^)
     url: https://tu-freiberg.de/fakult4/imfd/mikromechanische-materialmodellierung
 
 # Short bio (displayed in user profile at end of posts)
