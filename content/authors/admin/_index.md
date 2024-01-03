@@ -137,7 +137,7 @@ highlight_name: true
 
 I am Dr. Arun Prakash. Welcome to my homepage.
 
-Precisely speaking, I am a scientist working in the broad field of *Computational Materials Science*.
+Precisely speaking, I am a scientist working in the broad field of *Computational Materials Science*. Currently, I am employed as a *Senior Scientist* in the * **M**icro-Mechanics & **M**ultiscale **M**aterials **M**odeling (**M<sup>5</sup>**) Group*
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
 {style="text-align: justify;"}
