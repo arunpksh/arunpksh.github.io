@@ -131,9 +131,9 @@ social:
 highlight_name: true
 ---
 
-**```console
-arunpksh-$~> whoami
-```**
+```console
+**arunpksh-$~> whoami**
+```
 
 I am Dr. Arun Prakash. Welcome to my homepage.
 
