@@ -3,7 +3,7 @@
 title: Dr.-Ing. Arun Prakash
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Arun
@@ -23,6 +23,8 @@ role: Senior Scientist
 organizations:
   - name: TU Bergakademie Freiberg
     url: https://tu-freiberg.de/
+  - name: Micro-Mechanics & Multiscale Materials Modeling (M^5)
+    url: https://tu-freiberg.de/fakult4/imfd/mikromechanische-materialmodellierung
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
