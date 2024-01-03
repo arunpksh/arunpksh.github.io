@@ -31,9 +31,9 @@ bio: My research interests include ....
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multiscale Materials Modeling
+  - Machine Learning and Data Informatics in Materials Science
+  - Finite Element and Atomistic Simulations
 
 # Education to show in About widget
 education:
