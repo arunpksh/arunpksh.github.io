@@ -132,7 +132,7 @@ highlight_name: true
 ---
 
 ```bash
-**arunpksh:$~> whoami**
+arunpksh:$~> whoami
 ```
 
 I am Dr. Arun Prakash. Welcome to my homepage.
