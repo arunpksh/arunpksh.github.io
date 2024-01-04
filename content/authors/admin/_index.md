@@ -150,3 +150,7 @@ Born in the temple town of Belur in Karnataka, India, I grew up in the bustling 
 
 
 {style="text-align: justify;"}
+
+---
+
+NEWS
