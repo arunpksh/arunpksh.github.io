@@ -23,11 +23,11 @@ role: Senior Scientist
 organizations:
   - name: TU Bergakademie Freiberg
     url: https://tu-freiberg.de/
-  - name: Micro-Mechanics & Multiscale Materials Modeling (M^5^)
+  - name: Micro-Mechanics & Multiscale Materials Modeling (M5)
     url: https://tu-freiberg.de/fakult4/imfd/mikromechanische-materialmodellierung
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ....
+bio: My research interests include atomistic and finite element modeling, multiscale simulation frameworks, machine learning and data informatics in materials science.
 
 # Interests to show in About widget
 interests:
