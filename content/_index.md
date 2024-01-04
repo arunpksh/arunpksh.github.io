@@ -235,9 +235,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me via this block. If you wish to meet me personally, you will find the location of my office below
+        Feel free to contact me via this block. If you wish to meet me personally, you will find the location of my office below.
 
-        Students please note that I generally have an open door policy. However, I may somtimes ask you to fix an appointment, particularly if the discussion needs sufficient time to be allotted.
+        Students, please note that I generally have an open door policy. However, I may somtimes ask you to fix an appointment, particularly if the discussion needs sufficient time to be allotted.
       # Contact (add or remove contact options as necessary)
       email: arun.prakash@imfd.tu-freiberg.de
       phone: +49 (0) 3731 39 3576
@@ -249,10 +249,10 @@ sections:
         postcode: '09599'
         country: Germany
         country_code: DE
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: Room 127a, East Wing
+      #office_hours:
+      #  - 
+      #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '50.92594162771803'
