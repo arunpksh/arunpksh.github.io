@@ -98,7 +98,8 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 5
+    zoom: 20
+    #zoom: higher number zooms in (closer view), lower number zooms out (Farther view)
 
 # Extensions
 
