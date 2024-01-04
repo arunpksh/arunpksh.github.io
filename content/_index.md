@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-01-03
 type: landing
 
 sections:
@@ -235,18 +235,20 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me via this block. If you wish to meet me personally, you will find the location of my office below
+
+        Students please note that I generally have an open door policy. However, I may somtimes ask you to fix an appointment, particularly if the discussion needs sufficient time to be allotted.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: arun.prakash@imfd.tu-freiberg.de
+      phone: +49 (0) 3731 39 3576
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Lampadiusstr. 4
+        city: Freiberg
+        region: Sachsen
+        postcode: '09599'
+        country: Germany
+        country_code: DE
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
