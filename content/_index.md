@@ -50,6 +50,20 @@ sections:
   #    username: admin
   #  design:
   #    columns: '1'
+  - block: collection
+    content:
+      title: News
+      #text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: experience
     demo: true
     content:
