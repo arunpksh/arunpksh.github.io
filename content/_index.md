@@ -51,7 +51,7 @@ sections:
   #  design:
   #    columns: '1'
   - block: collection
-    id: posts
+    id: news
     content:
       title: News
       subtitle: 'Latest happenings'
@@ -61,7 +61,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - news
         author: ""
         category: ""
         tag: ""
