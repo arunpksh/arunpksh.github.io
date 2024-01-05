@@ -54,7 +54,7 @@ sections:
     id: posts
     content:
       title: News
-      subtitle: ''
+      subtitle: 'Latest happenings'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
@@ -65,7 +65,7 @@ sections:
         author: ""
         category: ""
         tag: ""
-        exclude_featured: false
+        exclude_featured: True
         exclude_future: false
         exclude_past: false
         publication_type: ""
