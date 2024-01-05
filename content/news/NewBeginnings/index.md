@@ -33,9 +33,13 @@ authors:
 
 tags:
   - Academic
+  - News
+  - Website
 
 categories:
+  - News
   - Demo
+  - Website
 ---
 
 It is the start of a new year and perhaps the right time to renew my website. My previous website was hosted on Google sites in the classical layout. I always wanted to update and/or recreate my website with updated features once Google decided to stop supporting the classical version of sites and asked us to shift to the newer version of sites (I am not sure what the new and older versions of sites were called, so going with the names that come to mind now). But hey! the procastinator in me trumped everything else and I ended up, well, procastinating.
@@ -44,4 +48,4 @@ Well now, I think it is high time that I invest in some self-marketing. I took s
 
 I hope to keep this site updated regularly. Let us see where the journey takes us together.
 
-[//]: # it has been quite some time since I 
+[//]: # (it has been quite some time since I )
