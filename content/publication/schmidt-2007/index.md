@@ -11,6 +11,6 @@ authors:
 date: '2007-01-01'
 publishDate: '2024-01-05T20:25:53.767781Z'
 publication_types:
-- paper-conference
+- article-journal
 publication: '*Materials science forum*'
 ---
