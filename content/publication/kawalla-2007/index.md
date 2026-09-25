@@ -2,7 +2,8 @@
 title: Experimental and Numerical Investigation of Texture Development During Hot
   Rolling of Magnesium Alloys
 authors:
-- Christian Schmidt' Rudolf Kawalla
+- Rudolf Kawalla
+- Christian Schmidt
 - Hermann Riedel
 - Aruna Prakash
 date: '2007-01-01'

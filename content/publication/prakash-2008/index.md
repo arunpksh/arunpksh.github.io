@@ -9,5 +9,5 @@ date: '2008-01-01'
 publishDate: '2024-01-05T20:25:53.783383Z'
 publication_types:
 - article-journal
-publication: '*steel research international*'
+publication: '*Steel Research International*'
 ---
