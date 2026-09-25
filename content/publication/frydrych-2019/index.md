@@ -6,7 +6,7 @@ authors:
 - K. Kowalczyk-Gajewska
 - A. Prakash
 date: '2019-01-01'
-publishDate: '2026-09-25T15:05:03.123819Z'
+publishDate: '2026-09-25T17:29:05.199022Z'
 publication_types:
 - article-journal
 publication: '*Modelling and Simulation in Materials Science and Engineering*'

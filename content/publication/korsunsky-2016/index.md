@@ -10,13 +10,9 @@ authors:
 - A Prakash
 - E Bitzek
 date: '2016-01-01'
-publishDate: '2026-09-25T15:05:03.145860Z'
+publishDate: '2026-09-25T17:29:05.222282Z'
 publication_types:
 - article-journal
 publication: '*Materials Letters*'
 doi: 10.1016/j.matlet.2016.08.111
-links:
-- name: URL
-  url:
-    http://www.scopus.com/inward/record.url?eid=2-s2.0-84990032735&partnerID=MN8TOARS
 ---

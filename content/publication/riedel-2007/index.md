@@ -5,7 +5,7 @@ authors:
 - Arun Prakash
 - Dirk Helm
 date: '2007-01-01'
-publishDate: '2026-09-25T15:05:03.178438Z'
+publishDate: '2026-09-25T17:29:05.250176Z'
 publication_types:
 - article-journal
 publication: '*wt Werkstattstechnik online*'

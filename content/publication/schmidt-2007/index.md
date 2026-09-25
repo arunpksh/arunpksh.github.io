@@ -9,7 +9,7 @@ authors:
 - A Prakash
 - Christophe Poizat
 date: '2007-01-01'
-publishDate: '2024-01-05T20:25:53.767781Z'
+publishDate: '2026-09-25T17:29:05.252193Z'
 publication_types:
 - article-journal
 publication: '*Materials science forum*'

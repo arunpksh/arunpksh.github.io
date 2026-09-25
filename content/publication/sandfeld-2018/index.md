@@ -19,7 +19,7 @@ authors:
 - Hans-Georg Herrmann
 - René Schubotz
 date: '2018-01-01'
-publishDate: '2026-09-25T15:05:03.136035Z'
+publishDate: '2026-09-25T17:29:05.210742Z'
 publication_types:
 - book
 publication: '*DGM - Deutsche Gesellschaft für Materialkunde e.V.*'

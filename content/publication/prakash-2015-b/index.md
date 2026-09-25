@@ -8,7 +8,7 @@ authors:
 - H. W. Höppel
 - E. Bitzek
 date: '2015-01-01'
-publishDate: '2026-09-25T15:05:03.150258Z'
+publishDate: '2026-09-25T17:29:05.226509Z'
 publication_types:
 - article-journal
 publication: '*Materials Science and Engineering A*'

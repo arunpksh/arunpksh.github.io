@@ -4,7 +4,7 @@ authors:
 - Arun Prakash
 - Stefan Sandfeld
 date: '2018-01-01'
-publishDate: '2026-09-25T15:05:03.129081Z'
+publishDate: '2026-09-25T17:29:05.204029Z'
 publication_types:
 - article-journal
 publication: '*Practical Metallography*'

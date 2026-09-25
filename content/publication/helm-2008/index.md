@@ -6,7 +6,7 @@ authors:
 - T. Hochrainer
 - A. Prakash
 date: '2008-01-01'
-publishDate: '2026-09-25T15:05:03.176406Z'
+publishDate: '2026-09-25T17:29:05.248152Z'
 publication_types:
 - article-journal
 publication: '*Konstruktion*'

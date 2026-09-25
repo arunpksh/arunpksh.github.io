@@ -8,7 +8,7 @@ authors:
 - S. Korte-Kerzel
 - E. Bitzek
 date: '2019-01-01'
-publishDate: '2026-09-25T15:05:03.119852Z'
+publishDate: '2026-09-25T17:29:05.196523Z'
 publication_types:
 - article-journal
 publication: '*Materialia*'

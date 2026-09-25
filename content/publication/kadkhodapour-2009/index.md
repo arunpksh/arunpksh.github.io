@@ -7,7 +7,7 @@ authors:
 - A. Prakash
 - S. Ziaei Rad
 date: '2009-01-01'
-publishDate: '2026-09-25T15:05:03.167413Z'
+publishDate: '2026-09-25T17:29:05.241267Z'
 publication_types:
 - paper-conference
 publication: '*Computational Plasticity X - Fundamentals and Applications*'

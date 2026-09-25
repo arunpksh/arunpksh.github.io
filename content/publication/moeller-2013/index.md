@@ -5,7 +5,7 @@ authors:
 - A. Prakash
 - E. Bitzek
 date: '2013-01-01'
-publishDate: '2026-09-25T15:05:03.158367Z'
+publishDate: '2026-09-25T17:29:05.234404Z'
 publication_types:
 - article-journal
 publication: '*Modelling and Simulation in Materials Science and Engineering*'

@@ -6,7 +6,7 @@ authors:
 - S. M. Weygand
 - H. Riedel
 date: '2009-05-01'
-publishDate: '2026-09-25T15:05:03.173928Z'
+publishDate: '2026-09-25T17:29:05.245586Z'
 publication_types:
 - article-journal
 publication: '*Computational Materials Science*'

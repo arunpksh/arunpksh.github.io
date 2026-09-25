@@ -5,7 +5,7 @@ authors:
 - A Prakash
 - R A Lebensohn
 date: '2009-01-01'
-publishDate: '2026-09-25T15:05:03.164962Z'
+publishDate: '2026-09-25T17:29:05.238812Z'
 publication_types:
 - article-journal
 publication: '*Modelling and Simulation in Materials Science and Engineering*'

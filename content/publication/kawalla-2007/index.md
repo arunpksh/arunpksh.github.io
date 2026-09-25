@@ -7,7 +7,7 @@ authors:
 - Hermann Riedel
 - Aruna Prakash
 date: '2007-01-01'
-publishDate: '2024-01-05T20:25:53.776726Z'
+publishDate: '2026-09-25T17:29:05.254220Z'
 publication_types:
 - paper-conference
 publication: '*Magnesium: Proceedings of the 7th International Conference on Magnesium

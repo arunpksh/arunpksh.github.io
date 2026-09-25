@@ -13,7 +13,7 @@ authors:
 - D. Raabe
 - E. Bitzek
 date: '2015-01-01'
-publishDate: '2026-09-25T15:05:03.152921Z'
+publishDate: '2026-09-25T17:29:05.229166Z'
 publication_types:
 - article-journal
 publication: '*Acta Materialia*'

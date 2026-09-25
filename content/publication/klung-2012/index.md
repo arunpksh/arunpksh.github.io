@@ -6,7 +6,7 @@ authors:
 - A. Prakash
 - D. Helm
 date: '2012-01-01'
-publishDate: '2026-09-25T15:05:03.162908Z'
+publishDate: '2026-09-25T17:29:05.236763Z'
 publication_types:
 - paper-conference
 publication: '*Proc. of Intl. Conf. Ingot Casting, Rolling and Forging*'

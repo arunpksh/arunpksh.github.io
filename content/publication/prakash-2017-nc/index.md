@@ -6,7 +6,7 @@ authors:
 - D. Weygand
 - E. Bitzek
 date: '2017-01-01'
-publishDate: '2024-01-05T20:25:53.795285Z'
+publishDate: '2026-09-25T17:29:05.260351Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Plasticity*'

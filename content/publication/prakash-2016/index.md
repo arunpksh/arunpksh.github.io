@@ -1,5 +1,5 @@
 ---
-title: 'MethodsX Nano SCULPT : A methodology for generating complex realistic configurations
+title: 'NanoSCULPT : A methodology for generating complex realistic configurations
   for atomistic simulations'
 authors:
 - A Prakash
@@ -7,7 +7,7 @@ authors:
 - S Schmauder
 - E Bitzek
 date: '2016-01-01'
-publishDate: '2026-09-25T15:05:03.148082Z'
+publishDate: '2026-09-25T17:29:05.224404Z'
 publication_types:
 - article-journal
 publication: '*MethodsX*'

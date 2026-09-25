@@ -10,7 +10,7 @@ authors:
 - H. W. Höppel
 - M. Göken
 date: '2019-01-01'
-publishDate: '2026-09-25T15:05:03.126474Z'
+publishDate: '2026-09-25T17:29:05.201534Z'
 publication_types:
 - article-journal
 publication: '*Advanced Engineering Materials*'

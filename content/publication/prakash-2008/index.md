@@ -6,7 +6,7 @@ authors:
 - Eduard Reisacher
 - Hermann Riedel
 date: '2008-01-01'
-publishDate: '2024-01-05T20:25:53.783383Z'
+publishDate: '2026-09-25T17:29:05.256299Z'
 publication_types:
 - article-journal
 publication: '*Steel Research International*'

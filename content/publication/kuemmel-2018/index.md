@@ -8,7 +8,7 @@ authors:
 - H. W. Höppel
 - M. Göken
 date: '2018-01-01'
-publishDate: '2026-09-25T15:05:03.133336Z'
+publishDate: '2026-09-25T17:29:05.208118Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Fatigue*'
