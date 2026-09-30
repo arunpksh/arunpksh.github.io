@@ -139,11 +139,14 @@ I am Dr. Arun Prakash. Welcome to my homepage.
 
 
 ```bash
-arunpksh:$~> aboutme
+arunpksh:$~> aboutme --brief
 ```
 
+I am a Senior Scientist in the **Micro-Mechanics & Multiscale Materials Modeling (M⁵) Group** at the Institute of Mechanics and Fluid Dynamics, TU Bergakademie Freiberg. My research lies in the broad field of **Computational Materials Science**, where I develop and apply computational methods to understand and predict material behavior across different length and time scales.
 
-Precisely speaking, I am a scientist working in the broad field of *Computational Materials Science*. I am currently employed as a *Senior Scientist* in the ***M**icro-Mechanics & **M**ultiscale **M**aterials **M**odeling (**M<sup>5</sup>**) Group*, Institute of Mechanics and Fluid Dynamics, TU Bergakademie Freiberg. I work primarily in the field of atomistic modeling, finite element simulations and multiscale modeling techniques, with particular focus on development of machine learning and data analytics frameworks for gaining knowledge from simulation methods.
+My work combines **atomistic simulations, crystal plasticity modeling, finite element methods, multiscale modeling, machine learning, and data informatics**. A central theme of my research is connecting these approaches to extract physically meaningful insights from simulation data and to develop novel computational frameworks for studying complex materials behavior.
+
+My research interests span **multiscale materials modeling, computational mechanics, atomistic and continuum simulations, and data-driven materials science**, with an emphasis on developing methods that bridge different modeling scales and enable a deeper understanding of the underlying physical mechanisms.
 
 
 
