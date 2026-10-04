@@ -119,7 +119,7 @@ social:
     link: https://gitlab.com/arun.prakash.mimm
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/arun-prakash-904593141/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -149,6 +149,7 @@ My work combines **atomistic simulations, crystal plasticity modeling, finite el
 My research interests span **multiscale materials modeling, computational mechanics, atomistic and continuum simulations, and data-driven materials science**, with an emphasis on developing methods that bridge different modeling scales and enable a deeper understanding of the underlying physical mechanisms.
 
 
+For a detailed professional biography, please see my [full biography](/authors/admin/biography/).
 
 {style="text-align: justify;"}
 
